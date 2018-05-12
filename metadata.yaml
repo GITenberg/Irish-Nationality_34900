@@ -1,0 +1,35 @@
+_repo: Irish-Nationality_34900
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Green, Alice Stopford
+    aliases:
+    - Stopford, Alice Sophia Amelia
+    - Green, A. S. (Alice Stopford)
+    - Green, Mrs. J. R.
+    birthdate: 1848
+    deathdate: 1929
+    gutenberg_agent_id: '37310'
+    url: http://www.gutenberg.org/2009/agents/37310
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Stopford_Green
+description: ''
+gutenberg_issued: '2011-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34900'
+  lccn: '11011071'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Home University Library of Modern Knowledge, No. 6
+subjects:
+- !lcc 'DA'
+- !lcsh 'Ireland -- Politics and government'
+- !lcsh 'Irish question'
+- !lcsh 'Ireland -- History'
+title: Irish Nationality
+url: http://www.gutenberg.org/ebooks/34900
