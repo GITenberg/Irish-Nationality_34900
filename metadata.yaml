@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37310
     wikipedia: http://en.wikipedia.org/wiki/Alice_Stopford_Green
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34900#Irish-Nationality
 gutenberg_issued: '2011-01-09'
 gutenberg_type: Text
 identifiers:
